@@ -1,8 +1,10 @@
+import SearchInput from "../../components/search/SearchInput";
 
 const Search = () => {
     return (
         <>
-        Search
+        <SearchInput />
+        {/* profilebar */}
         </>
     )
 }
